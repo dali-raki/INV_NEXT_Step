@@ -40,8 +40,8 @@ Name Methode
 
 😄 ```Dont forget to add Interface App```
 
-💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://github.com/StartUp-project00/INV/issues)
+💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)
 
-## 🔗 ASP.NET Core Developer Road Map
-[![.net](https://i.ibb.co/zWYJDNYW/net-9-p1-1.png)](https://roadmap.sh/aspnet-core)
+## 🔗 https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip Core Developer Road Map
+[![.net](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)
 
